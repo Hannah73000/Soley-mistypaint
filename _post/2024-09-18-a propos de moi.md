@@ -1,5 +1,5 @@
 ---
-layout: post
+layou: post
 title: Soley Mistypaint
 plublished: true
 ---
