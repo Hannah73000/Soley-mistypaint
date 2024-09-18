@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Soley Mistypaint
+subtitle: A propos de moi
 published: true
 ---
 Dans le charmant cadre de Grenoble et de la région Rhône-Alpes, Soley détone avec son univers féerique.
