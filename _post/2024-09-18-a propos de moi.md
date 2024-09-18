@@ -1,7 +1,7 @@
 ---
 layou: post
 title: Soley Mistypaint
-plublished: true
+published: true
 ---
 Dans le charmant cadre de Grenoble et de la région Rhône-Alpes, Soley détone avec son univers féerique.
 Passionnée par l'art du maquillage depuis son plus jeune âge, elle a décidé de transformer sa passion en métier en créant Objectivart.
