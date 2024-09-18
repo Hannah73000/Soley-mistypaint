@@ -1,5 +1,5 @@
 ---
-layou: post
+layout: post
 title: Soley Mistypaint
 published: true
 ---
